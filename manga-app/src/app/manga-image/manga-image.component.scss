@@ -1,0 +1,22 @@
+#p22{
+  color: firebrick;
+  a{
+    color: #3eff00;
+    &:hover {
+      color: black;
+    }
+  }
+}
+
+.row-tools{
+  max-width: 200px;
+  min-width: auto;
+  display: flex;
+  flex-direction: column;
+}
+
+img{
+  width: 1200px;
+  height: auto;
+}
+
