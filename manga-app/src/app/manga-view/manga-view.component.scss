@@ -1,0 +1,13 @@
+.row-tools{
+  max-width: 200px;
+  min-width: auto;
+  display: flex;
+  flex-direction: column;
+}
+
+.display-view{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: flex-start;
+}
