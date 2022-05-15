@@ -1,6 +1,5 @@
 .row-tools{
-  max-width: 200px;
-  min-width: auto;
+  max-width: min-content;
   display: flex;
   flex-direction: column;
 }
